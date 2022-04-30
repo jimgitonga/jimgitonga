@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**jimgitonga/jimgitonga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on EMR(Electronic medical record system and health bot)
 - 🌱 I’m currently learning ---Rust and Reanimated Api
@@ -17,5 +14,3 @@ Here are some ideas to get you started:
 - 🚨 LANGUAGES ...VANILLA JS ,PYTHON,C
 -
 
-- ⚡ Fun fact: ...
--->
