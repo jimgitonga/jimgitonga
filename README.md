@@ -12,5 +12,5 @@
 - 📚 Stacks...(MERN)
 -  🔧BACKEND-TECHNOLOGY....NODEJS
 - 🚨 LANGUAGES ...VANILLA JS ,PYTHON,C
--
+- 🤖 Mobile development ...ReactNative(Android& IOS)
 
