@@ -13,5 +13,5 @@
 -  🔧BACKEND-TECHNOLOGY....NODEJS
 - 🚨 LANGUAGES ...VANILLA JS ,PYTHON,C
 - 🤖 Mobile development ...ReactNative(Android& IOS)
-- ![alt text](http://url/to/img.png)
+- ![alt text](https://media0.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif?cid=ecf05e470lgwouwqzgrj27t3d0glxg10ig93lgiatwzncquy&rid=giphy.gif&ct=g)
 
