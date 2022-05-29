@@ -10,6 +10,7 @@
 - 📫 How to reach me: @https://twitter.com/jimgitonga1 
 - 😄 Pronouns: He/Him
 - 📚 Stacks...(MERN)
+-   frameworks:<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 -  🔧BACKEND-TECHNOLOGY....NODEJS
 - 🚨 LANGUAGES ...VANILLA JS ,PYTHON,C
 - 🤖 Mobile development ...ReactNative(Android& IOS)
