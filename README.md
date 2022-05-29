@@ -10,7 +10,7 @@
 - 📫 How to reach me: @https://twitter.com/jimgitonga1 
 - 😄 Pronouns: He/Him
 - 📚 Stacks...(MERN)
--   Library:<i class="devicon-react-original colored"></i>
+-   Library:<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 -  🔧BACKEND-TECHNOLOGY....NODEJS
 - 🚨 LANGUAGES ...VANILLA JS ,PYTHON,C
 - 🤖 Mobile development ...ReactNative(Android& IOS)
