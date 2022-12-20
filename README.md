@@ -8,7 +8,6 @@
 - 🤔 I’m looking to help with Redux Boilerplates and debugging react apps
 - 💬 Ask me about Typescript&REDUX
 - 📫 How to reach me: @https://twitter.com/jimgitonga1 
-- 😄 Pronouns: He/Him
 - 📚 Stacks...(MERN)
 -   Library:<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height=100px width=100px/>
 -  🔧BACKEND-TECHNOLOGY....NODEJS
