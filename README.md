@@ -11,7 +11,7 @@
 - 📚 Stacks...(MERN)
 -   Library:<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height=100px width=100px/>
 -  🔧BACKEND-TECHNOLOGY....NODEJS
-- 🚨 LANGUAGES ...VANILLA JS ,PYTHON,C
+- 🚨 LANGUAGES ...VANILLA JS ,PYTHON,C,also GOLANGING...........
 - 🤖 Mobile development ...ReactNative(Android& IOS)
 - [![Jim_gitonga GitHub stats](https://github-readme-stats.vercel.app/api?username=jimgitonga&show_icons=true&theme=radical)](https://github.com/jimgitonga/github-readme-stats)
 - ![alt text](https://media0.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif?cid=ecf05e470lgwouwqzgrj27t3d0glxg10ig93lgiatwzncquy&rid=giphy.gif&ct=g)
