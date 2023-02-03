@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ---Rust and Reanimated Api
 - 👯 I’m looking to collaborate on ..OpenSource roles
 - 🤔 I’m looking to help with Redux Boilerplates and debugging react apps
-- 💬 Ask me about Typescript&REDUX
+- 💬 Ask me about Typescript REDUX GOlang
 - 📫 How to reach me: @https://twitter.com/jimgitonga1 
 - 📚 Stacks...(MERN)
 -   Library:<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height=100px width=100px/>
